@@ -1,7 +1,7 @@
 title: 현장과 개발의 조화
 description: 개발로 현장을 자유롭게
 
-url: https://
+url: https://byonghwan-son.github.io/
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
